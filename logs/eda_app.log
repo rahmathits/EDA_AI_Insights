@@ -1,0 +1,437 @@
+{"ts": 1784040576.3239603, "event": "dataset_size", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "rows": 144867, "cols": 24, "bytes_in_memory": 136605250}
+{"ts": 1784040585.0137258, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing"}
+{"ts": 1784040630.9877973, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing"}
+{"ts": 1784040686.901626, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing", "current_mb": 39.577, "peak_mb": 76.555}
+{"ts": 1784040686.9023266, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing", "duration_sec": 101.8876}
+{"ts": 1784040686.9030554, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "structure"}
+{"ts": 1784040693.4083436, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "structure", "current_mb": 58.849, "peak_mb": 68.561}
+{"ts": 1784040693.4092307, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "structure", "duration_sec": 6.4858}
+{"ts": 1784040693.410398, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "missing_values"}
+{"ts": 1784040693.488283, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing", "current_mb": 28.438, "peak_mb": 61.213}
+{"ts": 1784040693.5196168, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "preprocessing", "duration_sec": 57.8692}
+{"ts": 1784040693.623536, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "missing_values", "current_mb": 26.772, "peak_mb": 61.213}
+{"ts": 1784040693.623953, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "missing_values", "duration_sec": 0.2125}
+{"ts": 1784040693.6242816, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "outliers"}
+{"ts": 1784040693.781879, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "outliers", "current_mb": 27.897, "peak_mb": 38.935}
+{"ts": 1784040693.782377, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "outliers", "duration_sec": 0.1573}
+{"ts": 1784040693.7827263, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "correlation"}
+{"ts": 1784040693.8777282, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "correlation", "current_mb": 27.959, "peak_mb": 53.741}
+{"ts": 1784040693.8780992, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "correlation", "duration_sec": 0.0947}
+{"ts": 1784040693.8784142, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "distributions"}
+{"ts": 1784040694.3522317, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "distributions", "current_mb": 14.76, "peak_mb": 56.902}
+{"ts": 1784040694.3526747, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "distributions", "duration_sec": 0.4735}
+{"ts": 1784040694.353018, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "assumptions"}
+{"ts": 1784040694.6559384, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "assumptions", "current_mb": 14.785, "peak_mb": 55.784}
+{"ts": 1784040694.6563466, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "assumptions", "duration_sec": 0.3026}
+{"ts": 1784040694.6566672, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "dimensionality"}
+{"ts": 1784040695.011432, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "dimensionality", "current_mb": 15.646, "peak_mb": 53.459}
+{"ts": 1784040695.0118682, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "dimensionality", "duration_sec": 0.3545}
+{"ts": 1784040695.0122173, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "multivariate"}
+{"ts": 1784040702.6719272, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "multivariate", "current_mb": 16.039, "peak_mb": 67.903}
+{"ts": 1784040702.6735, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "multivariate", "duration_sec": 7.6594}
+{"ts": 1784040702.6745148, "event": "agent_start", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "summary"}
+{"ts": 1784040702.6763053, "event": "memory_usage", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "summary", "current_mb": 16.027, "peak_mb": 16.028}
+{"ts": 1784040702.677085, "event": "agent_complete", "session_id": "9a19a598-76d7-4be2-bf22-da281f97d159", "agent": "summary", "duration_sec": 0.0008}
+{"ts": 1784040852.0238812, "event": "dataset_size", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "rows": 986, "cols": 11, "bytes_in_memory": 86900}
+{"ts": 1784040865.4879057, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "preprocessing"}
+{"ts": 1784040865.4913886, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "preprocessing", "current_mb": 16.113, "peak_mb": 16.239}
+{"ts": 1784040865.4916961, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "preprocessing", "duration_sec": 0.003}
+{"ts": 1784040865.4920568, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "structure"}
+{"ts": 1784040865.499057, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "structure", "current_mb": 16.124, "peak_mb": 16.151}
+{"ts": 1784040865.4994261, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "structure", "duration_sec": 0.0067}
+{"ts": 1784040865.4998033, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "missing_values"}
+{"ts": 1784040865.5038364, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "missing_values", "current_mb": 16.127, "peak_mb": 16.2}
+{"ts": 1784040865.504443, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "missing_values", "duration_sec": 0.0037}
+{"ts": 1784040865.504773, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "outliers"}
+{"ts": 1784040865.6233006, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "outliers", "current_mb": 16.164, "peak_mb": 16.443}
+{"ts": 1784040865.6238923, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "outliers", "duration_sec": 0.1179}
+{"ts": 1784040865.6246464, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "correlation"}
+{"ts": 1784040865.63524, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "correlation", "current_mb": 16.227, "peak_mb": 16.345}
+{"ts": 1784040865.6355832, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "correlation", "duration_sec": 0.0101}
+{"ts": 1784040865.6359873, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "distributions"}
+{"ts": 1784040865.7139485, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "distributions", "current_mb": 16.309, "peak_mb": 16.535}
+{"ts": 1784040865.7143288, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "distributions", "duration_sec": 0.0777}
+{"ts": 1784040865.7147968, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "assumptions"}
+{"ts": 1784040865.7451582, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "assumptions", "current_mb": 16.317, "peak_mb": 16.529}
+{"ts": 1784040865.745528, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "assumptions", "duration_sec": 0.03}
+{"ts": 1784040865.7459755, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "dimensionality"}
+{"ts": 1784040865.7699964, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "dimensionality", "current_mb": 16.436, "peak_mb": 16.644}
+{"ts": 1784040865.7703931, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "dimensionality", "duration_sec": 0.0237}
+{"ts": 1784040865.7707937, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "multivariate"}
+{"ts": 1784040865.9692824, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "multivariate", "current_mb": 16.682, "peak_mb": 16.989}
+{"ts": 1784040865.9699214, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "multivariate", "duration_sec": 0.1982}
+{"ts": 1784040865.970439, "event": "agent_start", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "summary"}
+{"ts": 1784040865.9711432, "event": "memory_usage", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "summary", "current_mb": 16.682, "peak_mb": 16.683}
+{"ts": 1784040865.9715202, "event": "agent_complete", "session_id": "b92173af-cee8-4023-b34c-090d46981d1c", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784041397.6149209, "event": "dataset_size", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "rows": 12, "cols": 6, "bytes_in_memory": 2466}
+{"ts": 1784041405.8629541, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "preprocessing"}
+{"ts": 1784041405.8758397, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "preprocessing", "current_mb": 16.695, "peak_mb": 16.702}
+{"ts": 1784041405.8779252, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "preprocessing", "duration_sec": 0.0122}
+{"ts": 1784041405.878743, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "structure"}
+{"ts": 1784041405.886031, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "structure", "current_mb": 16.73, "peak_mb": 16.74}
+{"ts": 1784041405.886854, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "structure", "duration_sec": 0.0059}
+{"ts": 1784041405.8873384, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "missing_values"}
+{"ts": 1784041405.8906536, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "missing_values", "current_mb": 16.722, "peak_mb": 16.733}
+{"ts": 1784041405.8909879, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "missing_values", "duration_sec": 0.0029}
+{"ts": 1784041405.8913128, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "outliers"}
+{"ts": 1784041405.9025905, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "outliers", "current_mb": 16.725, "peak_mb": 16.733}
+{"ts": 1784041405.9029565, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "outliers", "duration_sec": 0.011}
+{"ts": 1784041405.9033213, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "correlation"}
+{"ts": 1784041405.905803, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "correlation", "current_mb": 16.73, "peak_mb": 16.735}
+{"ts": 1784041405.9060829, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "correlation", "duration_sec": 0.0022}
+{"ts": 1784041405.906367, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "distributions"}
+{"ts": 1784041405.9214127, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "distributions", "current_mb": 16.741, "peak_mb": 16.753}
+{"ts": 1784041405.9217756, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "distributions", "duration_sec": 0.0148}
+{"ts": 1784041405.9222007, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "assumptions"}
+{"ts": 1784041405.9313738, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "assumptions", "current_mb": 16.747, "peak_mb": 16.758}
+{"ts": 1784041405.931885, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "assumptions", "duration_sec": 0.0089}
+{"ts": 1784041405.9322479, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "dimensionality"}
+{"ts": 1784041405.9705832, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "dimensionality", "current_mb": 16.751, "peak_mb": 16.761}
+{"ts": 1784041405.971097, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "dimensionality", "duration_sec": 0.0379}
+{"ts": 1784041405.9714751, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "multivariate"}
+{"ts": 1784041406.036512, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "multivariate", "current_mb": 16.768, "peak_mb": 16.784}
+{"ts": 1784041406.0371826, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "multivariate", "duration_sec": 0.0648}
+{"ts": 1784041406.0378556, "event": "agent_start", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "summary"}
+{"ts": 1784041406.038558, "event": "memory_usage", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "summary", "current_mb": 16.769, "peak_mb": 16.769}
+{"ts": 1784041406.0391128, "event": "agent_complete", "session_id": "30ff156b-741d-40aa-9ff1-07df56077493", "agent": "summary", "duration_sec": 0.0003}
+{"ts": 1784041462.8277352, "event": "dataset_size", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "rows": 2381, "cols": 19, "bytes_in_memory": 919263}
+{"ts": 1784041466.6888685, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "preprocessing"}
+{"ts": 1784041466.985597, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "preprocessing", "current_mb": 17.349, "peak_mb": 17.81}
+{"ts": 1784041466.9859753, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "preprocessing", "duration_sec": 0.2961}
+{"ts": 1784041466.9863062, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "structure"}
+{"ts": 1784041467.0335875, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "structure", "current_mb": 17.376, "peak_mb": 17.501}
+{"ts": 1784041467.0339532, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "structure", "duration_sec": 0.047}
+{"ts": 1784041467.0343177, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "missing_values"}
+{"ts": 1784041467.0404365, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "missing_values", "current_mb": 17.382, "peak_mb": 17.484}
+{"ts": 1784041467.0407248, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "missing_values", "duration_sec": 0.0057}
+{"ts": 1784041467.0410755, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "outliers"}
+{"ts": 1784041467.079061, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "outliers", "current_mb": 17.416, "peak_mb": 17.642}
+{"ts": 1784041467.0794504, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "outliers", "duration_sec": 0.0377}
+{"ts": 1784041467.0798657, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "correlation"}
+{"ts": 1784041467.1190116, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "correlation", "current_mb": 17.363, "peak_mb": 17.964}
+{"ts": 1784041467.1194117, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "correlation", "duration_sec": 0.0388}
+{"ts": 1784041467.119722, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "distributions"}
+{"ts": 1784041467.230368, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "distributions", "current_mb": 17.467, "peak_mb": 17.765}
+{"ts": 1784041467.231004, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "distributions", "duration_sec": 0.1103}
+{"ts": 1784041467.233636, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "assumptions"}
+{"ts": 1784041467.2743597, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "assumptions", "current_mb": 17.488, "peak_mb": 18.339}
+{"ts": 1784041467.2747378, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "assumptions", "duration_sec": 0.04}
+{"ts": 1784041467.275206, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "dimensionality"}
+{"ts": 1784041467.3004575, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "dimensionality", "current_mb": 17.608, "peak_mb": 18.348}
+{"ts": 1784041467.301166, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "dimensionality", "duration_sec": 0.0249}
+{"ts": 1784041467.3024874, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "multivariate"}
+{"ts": 1784041467.6566343, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "multivariate", "current_mb": 17.853, "peak_mb": 18.873}
+{"ts": 1784041467.6570373, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "multivariate", "duration_sec": 0.3533}
+{"ts": 1784041467.6573486, "event": "agent_start", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "summary"}
+{"ts": 1784041467.6577587, "event": "memory_usage", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "summary", "current_mb": 17.854, "peak_mb": 17.855}
+{"ts": 1784041467.6579955, "event": "agent_complete", "session_id": "6c41c971-bc14-43c8-ae76-531c5a642acc", "agent": "summary", "duration_sec": 0.0001}
+{"ts": 1784210750.9230938, "event": "dataset_size", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "rows": 175777, "cols": 14, "bytes_in_memory": 40780396}
+{"ts": 1784210765.2148077, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "preprocessing"}
+{"ts": 1784210774.06459, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "preprocessing", "current_mb": 5.387, "peak_mb": 40.246}
+{"ts": 1784210774.0658715, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "preprocessing", "duration_sec": 8.8495}
+{"ts": 1784210774.066289, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "structure"}
+{"ts": 1784210775.3372777, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "structure", "current_mb": 5.428, "peak_mb": 14.007}
+{"ts": 1784210775.3376515, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "structure", "duration_sec": 1.2707}
+{"ts": 1784210775.3381052, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "missing_values"}
+{"ts": 1784210775.384286, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "missing_values", "current_mb": 5.432, "peak_mb": 8.284}
+{"ts": 1784210775.3847437, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "missing_values", "duration_sec": 0.0458}
+{"ts": 1784210775.385067, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "outliers"}
+{"ts": 1784210775.5654902, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "outliers", "current_mb": 6.798, "peak_mb": 21.531}
+{"ts": 1784210775.5658355, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "outliers", "duration_sec": 0.1801}
+{"ts": 1784210775.5662153, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "correlation"}
+{"ts": 1784210775.6700082, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "correlation", "current_mb": 4.189, "peak_mb": 41.004}
+{"ts": 1784210775.670411, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "correlation", "duration_sec": 0.1034}
+{"ts": 1784210775.6707387, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "distributions"}
+{"ts": 1784210776.1036098, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "distributions", "current_mb": 4.292, "peak_mb": 20.288}
+{"ts": 1784210776.1040092, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "distributions", "duration_sec": 0.4326}
+{"ts": 1784210776.104391, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "assumptions"}
+{"ts": 1784210776.3285317, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "assumptions", "current_mb": 4.319, "peak_mb": 58.069}
+{"ts": 1784210776.3289042, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "assumptions", "duration_sec": 0.2237}
+{"ts": 1784210776.329246, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "dimensionality"}
+{"ts": 1784210776.5568404, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "dimensionality", "current_mb": 5.177, "peak_mb": 55.29}
+{"ts": 1784210776.5572882, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "dimensionality", "duration_sec": 0.2273}
+{"ts": 1784210776.5576239, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "multivariate"}
+{"ts": 1784210781.7453613, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "multivariate", "current_mb": 5.582, "peak_mb": 72.547}
+{"ts": 1784210781.7457938, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "multivariate", "duration_sec": 5.1874}
+{"ts": 1784210781.746131, "event": "agent_start", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "summary"}
+{"ts": 1784210781.746614, "event": "memory_usage", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "summary", "current_mb": 5.584, "peak_mb": 5.584}
+{"ts": 1784210781.746927, "event": "agent_complete", "session_id": "08557fc4-fe27-44a3-a2e2-a714ba9b4dff", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784213200.9380279, "event": "dataset_size", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "rows": 175777, "cols": 14, "bytes_in_memory": 40780396}
+{"ts": 1784213213.764331, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "preprocessing"}
+{"ts": 1784213222.805437, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "preprocessing", "current_mb": 5.387, "peak_mb": 40.246}
+{"ts": 1784213222.8069468, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "preprocessing", "duration_sec": 9.0406}
+{"ts": 1784213222.8075504, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "structure"}
+{"ts": 1784213224.4153967, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "structure", "current_mb": 5.427, "peak_mb": 14.007}
+{"ts": 1784213224.4158323, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "structure", "duration_sec": 1.6074}
+{"ts": 1784213224.4161787, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "missing_values"}
+{"ts": 1784213224.4621887, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "missing_values", "current_mb": 5.432, "peak_mb": 8.284}
+{"ts": 1784213224.4626496, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "missing_values", "duration_sec": 0.0456}
+{"ts": 1784213224.4637947, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "outliers"}
+{"ts": 1784213224.648188, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "outliers", "current_mb": 6.797, "peak_mb": 21.531}
+{"ts": 1784213224.6485603, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "outliers", "duration_sec": 0.1834}
+{"ts": 1784213224.6490412, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "correlation"}
+{"ts": 1784213224.780884, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "correlation", "current_mb": 4.188, "peak_mb": 41.003}
+{"ts": 1784213224.7813246, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "correlation", "duration_sec": 0.1315}
+{"ts": 1784213224.7817175, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "distributions"}
+{"ts": 1784213225.2442896, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "distributions", "current_mb": 4.29, "peak_mb": 20.287}
+{"ts": 1784213225.2448032, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "distributions", "duration_sec": 0.4622}
+{"ts": 1784213225.245299, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "assumptions"}
+{"ts": 1784213225.4868393, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "assumptions", "current_mb": 4.314, "peak_mb": 58.064}
+{"ts": 1784213225.4872956, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "assumptions", "duration_sec": 0.2412}
+{"ts": 1784213225.4876366, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "dimensionality"}
+{"ts": 1784213225.7188098, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "dimensionality", "current_mb": 5.174, "peak_mb": 55.287}
+{"ts": 1784213225.7192752, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "dimensionality", "duration_sec": 0.2309}
+{"ts": 1784213225.7197292, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "multivariate"}
+{"ts": 1784213229.976271, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "multivariate", "current_mb": 5.582, "peak_mb": 72.547}
+{"ts": 1784213229.9769897, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "multivariate", "duration_sec": 4.2561}
+{"ts": 1784213229.977419, "event": "agent_start", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "summary"}
+{"ts": 1784213229.977955, "event": "memory_usage", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "summary", "current_mb": 5.583, "peak_mb": 5.584}
+{"ts": 1784213229.9783187, "event": "agent_complete", "session_id": "e1f2e22e-0716-486d-92af-bbcf039b5d23", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784656527.1489086, "event": "dataset_size", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "rows": 144867, "cols": 24, "bytes_in_memory": 136605250}
+{"ts": 1784656533.2745209, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "preprocessing"}
+{"ts": 1784656577.604269, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "preprocessing", "current_mb": 26.613, "peak_mb": 66.906}
+{"ts": 1784656577.6053462, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "preprocessing", "duration_sec": 44.3295}
+{"ts": 1784656577.605623, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "structure"}
+{"ts": 1784656583.5019188, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "structure", "current_mb": 13.365, "peak_mb": 35.765}
+{"ts": 1784656583.5023339, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "structure", "duration_sec": 5.896}
+{"ts": 1784656583.5026414, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "missing_values"}
+{"ts": 1784656583.6914334, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "missing_values", "current_mb": 13.375, "peak_mb": 17.109}
+{"ts": 1784656583.6919696, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "missing_values", "duration_sec": 0.1885}
+{"ts": 1784656583.69233, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "outliers"}
+{"ts": 1784656583.8547497, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "outliers", "current_mb": 14.502, "peak_mb": 25.54}
+{"ts": 1784656583.8551753, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "outliers", "duration_sec": 0.1621}
+{"ts": 1784656583.855553, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "correlation"}
+{"ts": 1784656583.9384308, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "correlation", "current_mb": 14.564, "peak_mb": 40.345}
+{"ts": 1784656583.9388404, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "correlation", "duration_sec": 0.0826}
+{"ts": 1784656583.939194, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "distributions"}
+{"ts": 1784656584.388362, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "distributions", "current_mb": 14.677, "peak_mb": 56.817}
+{"ts": 1784656584.3887966, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "distributions", "duration_sec": 0.4488}
+{"ts": 1784656584.389156, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "assumptions"}
+{"ts": 1784656584.6072257, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "assumptions", "current_mb": 14.701, "peak_mb": 55.7}
+{"ts": 1784656584.6076322, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "assumptions", "duration_sec": 0.2177}
+{"ts": 1784656584.6079233, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "dimensionality"}
+{"ts": 1784656584.8303187, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "dimensionality", "current_mb": 15.56, "peak_mb": 53.377}
+{"ts": 1784656584.8308382, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "dimensionality", "duration_sec": 0.2221}
+{"ts": 1784656584.8312016, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "multivariate"}
+{"ts": 1784656589.7257278, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "multivariate", "current_mb": 15.968, "peak_mb": 67.828}
+{"ts": 1784656589.726294, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "multivariate", "duration_sec": 4.8942}
+{"ts": 1784656589.7265866, "event": "agent_start", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "summary"}
+{"ts": 1784656589.7270412, "event": "memory_usage", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "summary", "current_mb": 15.969, "peak_mb": 15.97}
+{"ts": 1784656589.727338, "event": "agent_complete", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784656606.0541043, "event": "warning", "session_id": "ecef5ecf-996e-4dcb-8e9b-bc5ed7f38ba8", "agent": "summary", "message": "executive summary failed: module 'llm_helper' has no attribute 'get_executive_summary'"}
+{"ts": 1784656703.0260928, "event": "dataset_size", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "rows": 144867, "cols": 24, "bytes_in_memory": 136605250}
+{"ts": 1784656705.8439422, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "preprocessing"}
+{"ts": 1784656750.8404372, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "preprocessing", "current_mb": 26.613, "peak_mb": 66.906}
+{"ts": 1784656750.841019, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "preprocessing", "duration_sec": 44.9963}
+{"ts": 1784656750.8413546, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "structure"}
+{"ts": 1784656756.745857, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "structure", "current_mb": 13.365, "peak_mb": 35.766}
+{"ts": 1784656756.7463043, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "structure", "duration_sec": 5.9042}
+{"ts": 1784656756.7466283, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "missing_values"}
+{"ts": 1784656756.9533527, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "missing_values", "current_mb": 13.376, "peak_mb": 17.109}
+{"ts": 1784656756.9537508, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "missing_values", "duration_sec": 0.2064}
+{"ts": 1784656756.9540918, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "outliers"}
+{"ts": 1784656757.111355, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "outliers", "current_mb": 14.502, "peak_mb": 25.54}
+{"ts": 1784656757.1118207, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "outliers", "duration_sec": 0.1569}
+{"ts": 1784656757.11217, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "correlation"}
+{"ts": 1784656757.1814113, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "correlation", "current_mb": 14.565, "peak_mb": 40.346}
+{"ts": 1784656757.181856, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "correlation", "duration_sec": 0.0689}
+{"ts": 1784656757.18219, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "distributions"}
+{"ts": 1784656757.616472, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "distributions", "current_mb": 14.68, "peak_mb": 56.82}
+{"ts": 1784656757.6169565, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "distributions", "duration_sec": 0.4339}
+{"ts": 1784656757.6175058, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "assumptions"}
+{"ts": 1784656757.798263, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "assumptions", "current_mb": 14.704, "peak_mb": 55.703}
+{"ts": 1784656757.7986894, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "assumptions", "duration_sec": 0.1804}
+{"ts": 1784656757.799077, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "dimensionality"}
+{"ts": 1784656757.9710572, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "dimensionality", "current_mb": 15.562, "peak_mb": 53.379}
+{"ts": 1784656757.971511, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "dimensionality", "duration_sec": 0.1716}
+{"ts": 1784656757.9718516, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "multivariate"}
+{"ts": 1784656760.9978108, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "multivariate", "current_mb": 15.969, "peak_mb": 67.828}
+{"ts": 1784656760.9982855, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "multivariate", "duration_sec": 3.0256}
+{"ts": 1784656760.9987557, "event": "agent_start", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "summary"}
+{"ts": 1784656760.9994056, "event": "memory_usage", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "summary", "current_mb": 15.97, "peak_mb": 15.97}
+{"ts": 1784656760.999872, "event": "agent_complete", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "summary", "duration_sec": 0.0003}
+{"ts": 1784656773.1513512, "event": "warning", "session_id": "94e736f6-8b80-438a-b2d3-badae78cc345", "agent": "summary", "message": "executive summary failed: module 'llm_helper' has no attribute 'get_executive_summary'"}
+{"ts": 1784703088.3344553, "event": "dataset_size", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "rows": 19104, "cols": 14, "bytes_in_memory": 5345923}
+{"ts": 1784703260.9904232, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing"}
+{"ts": 1784703263.4505897, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing", "current_mb": 1.928, "peak_mb": 5.013}
+{"ts": 1784703263.457888, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing", "duration_sec": 2.4598}
+{"ts": 1784703263.458445, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure"}
+{"ts": 1784703263.8026285, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure", "current_mb": 1.968, "peak_mb": 2.836}
+{"ts": 1784703263.803208, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure", "duration_sec": 0.3438}
+{"ts": 1784703263.8036695, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values"}
+{"ts": 1784703263.8235464, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values", "current_mb": 1.974, "peak_mb": 2.299}
+{"ts": 1784703263.8241687, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values", "duration_sec": 0.0194}
+{"ts": 1784703263.8246648, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers"}
+{"ts": 1784703263.909533, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers", "current_mb": 2.139, "peak_mb": 3.438}
+{"ts": 1784703263.9102094, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers", "duration_sec": 0.0844}
+{"ts": 1784703263.9106867, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation"}
+{"ts": 1784703263.9606466, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation", "current_mb": 2.192, "peak_mb": 5.245}
+{"ts": 1784703263.9613225, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation", "duration_sec": 0.0494}
+{"ts": 1784703263.9619634, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions"}
+{"ts": 1784703264.1086838, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions", "current_mb": 2.286, "peak_mb": 4.187}
+{"ts": 1784703264.109242, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions", "duration_sec": 0.1462}
+{"ts": 1784703264.1097398, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions"}
+{"ts": 1784703264.3191109, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions", "current_mb": 2.31, "peak_mb": 7.218}
+{"ts": 1784703264.319766, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions", "duration_sec": 0.209}
+{"ts": 1784703264.3204193, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality"}
+{"ts": 1784703264.7487411, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality", "current_mb": 1.839, "peak_mb": 6.336}
+{"ts": 1784703264.7496068, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality", "duration_sec": 0.4277}
+{"ts": 1784703264.7501185, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate"}
+{"ts": 1784703275.7366693, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate", "current_mb": 2.241, "peak_mb": 8.682}
+{"ts": 1784703275.73721, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate", "duration_sec": 10.986}
+{"ts": 1784703275.7377295, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary"}
+{"ts": 1784703275.7383962, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary", "current_mb": 2.242, "peak_mb": 2.242}
+{"ts": 1784703275.7388194, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary", "duration_sec": 0.0003}
+{"ts": 1784703442.2114704, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing"}
+{"ts": 1784703443.7751598, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing", "current_mb": 4.172, "peak_mb": 7.258}
+{"ts": 1784703443.7756875, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "preprocessing", "duration_sec": 1.5631}
+{"ts": 1784703443.7762275, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure"}
+{"ts": 1784703444.0489955, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure", "current_mb": 4.191, "peak_mb": 5.077}
+{"ts": 1784703444.0493724, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "structure", "duration_sec": 0.2722}
+{"ts": 1784703444.049781, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values"}
+{"ts": 1784703444.0613728, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values", "current_mb": 4.192, "peak_mb": 4.518}
+{"ts": 1784703444.0617628, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "missing_values", "duration_sec": 0.0113}
+{"ts": 1784703444.062183, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers"}
+{"ts": 1784703444.0980031, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers", "current_mb": 4.198, "peak_mb": 5.653}
+{"ts": 1784703444.0983884, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "outliers", "duration_sec": 0.0353}
+{"ts": 1784703444.0988846, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation"}
+{"ts": 1784703444.1139812, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation", "current_mb": 4.239, "peak_mb": 7.297}
+{"ts": 1784703444.1143806, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "correlation", "duration_sec": 0.0148}
+{"ts": 1784703444.1148992, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions"}
+{"ts": 1784703444.1922984, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions", "current_mb": 2.797, "peak_mb": 5.686}
+{"ts": 1784703444.1926975, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "distributions", "duration_sec": 0.0771}
+{"ts": 1784703444.193413, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions"}
+{"ts": 1784703444.267232, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions", "current_mb": 2.735, "peak_mb": 7.643}
+{"ts": 1784703444.2676075, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "assumptions", "duration_sec": 0.0735}
+{"ts": 1784703444.2680943, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality"}
+{"ts": 1784703444.2983677, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality", "current_mb": 2.847, "peak_mb": 7.415}
+{"ts": 1784703444.2993422, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "dimensionality", "duration_sec": 0.0298}
+{"ts": 1784703444.3008616, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate"}
+{"ts": 1784703444.780586, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate", "current_mb": 2.965, "peak_mb": 9.403}
+{"ts": 1784703444.780986, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "multivariate", "duration_sec": 0.4792}
+{"ts": 1784703444.7820175, "event": "agent_start", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary"}
+{"ts": 1784703444.7825434, "event": "memory_usage", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary", "current_mb": 2.738, "peak_mb": 2.739}
+{"ts": 1784703444.782849, "event": "agent_complete", "session_id": "5faf14ae-9e3f-45ac-83ca-064b565c13dd", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784720841.7734683, "event": "dataset_size", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "rows": 19104, "cols": 14, "bytes_in_memory": 5345923}
+{"ts": 1784720909.1338143, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "preprocessing"}
+{"ts": 1784720911.556085, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "preprocessing", "current_mb": 1.928, "peak_mb": 5.013}
+{"ts": 1784720911.5597389, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "preprocessing", "duration_sec": 2.4217}
+{"ts": 1784720911.5601447, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "structure"}
+{"ts": 1784720911.9629169, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "structure", "current_mb": 1.969, "peak_mb": 2.836}
+{"ts": 1784720911.9634244, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "structure", "duration_sec": 0.4024}
+{"ts": 1784720911.964097, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "missing_values"}
+{"ts": 1784720911.9904954, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "missing_values", "current_mb": 1.975, "peak_mb": 2.299}
+{"ts": 1784720911.9909806, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "missing_values", "duration_sec": 0.0258}
+{"ts": 1784720911.991549, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "outliers"}
+{"ts": 1784720912.0629237, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "outliers", "current_mb": 2.139, "peak_mb": 3.438}
+{"ts": 1784720912.06345, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "outliers", "duration_sec": 0.0709}
+{"ts": 1784720912.0640607, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "correlation"}
+{"ts": 1784720912.112167, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "correlation", "current_mb": 2.192, "peak_mb": 5.244}
+{"ts": 1784720912.112666, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "correlation", "duration_sec": 0.0476}
+{"ts": 1784720912.1131132, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "distributions"}
+{"ts": 1784720912.2451837, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "distributions", "current_mb": 2.283, "peak_mb": 4.184}
+{"ts": 1784720912.2456791, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "distributions", "duration_sec": 0.1317}
+{"ts": 1784720912.2460742, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "assumptions"}
+{"ts": 1784720912.462951, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "assumptions", "current_mb": 2.306, "peak_mb": 7.215}
+{"ts": 1784720912.4633691, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "assumptions", "duration_sec": 0.2165}
+{"ts": 1784720912.4637208, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "dimensionality"}
+{"ts": 1784720912.8979073, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "dimensionality", "current_mb": 1.836, "peak_mb": 6.333}
+{"ts": 1784720912.8983886, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "dimensionality", "duration_sec": 0.4339}
+{"ts": 1784720912.8989048, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "multivariate"}
+{"ts": 1784720919.6295092, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "multivariate", "current_mb": 2.24, "peak_mb": 8.682}
+{"ts": 1784720919.630187, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "multivariate", "duration_sec": 6.7302}
+{"ts": 1784720919.6308546, "event": "agent_start", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "summary"}
+{"ts": 1784720919.631742, "event": "memory_usage", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "summary", "current_mb": 2.242, "peak_mb": 2.242}
+{"ts": 1784720919.6321666, "event": "agent_complete", "session_id": "5ec63038-ab62-4baa-b54f-60a6d4edb900", "agent": "summary", "duration_sec": 0.0003}
+{"ts": 1784721439.9852726, "event": "dataset_size", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "rows": 19104, "cols": 14, "bytes_in_memory": 5345923}
+{"ts": 1784721476.0040376, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing"}
+{"ts": 1784721477.6538901, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing", "current_mb": 1.928, "peak_mb": 5.013}
+{"ts": 1784721477.654323, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing", "duration_sec": 1.6495}
+{"ts": 1784721477.6547496, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure"}
+{"ts": 1784721477.9554226, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure", "current_mb": 1.968, "peak_mb": 2.835}
+{"ts": 1784721477.9558766, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure", "duration_sec": 0.3004}
+{"ts": 1784721477.9564018, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values"}
+{"ts": 1784721477.9724603, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values", "current_mb": 1.974, "peak_mb": 2.299}
+{"ts": 1784721477.9729023, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values", "duration_sec": 0.0156}
+{"ts": 1784721477.9734077, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers"}
+{"ts": 1784721478.0321128, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers", "current_mb": 2.139, "peak_mb": 3.438}
+{"ts": 1784721478.0325778, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers", "duration_sec": 0.0583}
+{"ts": 1784721478.0338242, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation"}
+{"ts": 1784721478.0669374, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation", "current_mb": 2.192, "peak_mb": 5.245}
+{"ts": 1784721478.0708106, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation", "duration_sec": 0.032}
+{"ts": 1784721478.0737338, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions"}
+{"ts": 1784721478.2164583, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions", "current_mb": 2.285, "peak_mb": 4.186}
+{"ts": 1784721478.2168736, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions", "duration_sec": 0.1395}
+{"ts": 1784721478.2172613, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions"}
+{"ts": 1784721478.3174634, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions", "current_mb": 2.308, "peak_mb": 7.217}
+{"ts": 1784721478.3178825, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions", "duration_sec": 0.0998}
+{"ts": 1784721478.318342, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality"}
+{"ts": 1784721478.4532871, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality", "current_mb": 1.838, "peak_mb": 6.335}
+{"ts": 1784721478.453724, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality", "duration_sec": 0.1346}
+{"ts": 1784721478.4540436, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate"}
+{"ts": 1784721480.6412082, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate", "current_mb": 2.241, "peak_mb": 8.682}
+{"ts": 1784721480.6416507, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate", "duration_sec": 2.1868}
+{"ts": 1784721480.6421125, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary"}
+{"ts": 1784721480.642537, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary", "current_mb": 2.242, "peak_mb": 2.242}
+{"ts": 1784721480.6429098, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784721614.5208712, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing"}
+{"ts": 1784721616.0861347, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing", "current_mb": 4.173, "peak_mb": 7.258}
+{"ts": 1784721616.0865576, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "preprocessing", "duration_sec": 1.5649}
+{"ts": 1784721616.0869117, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure"}
+{"ts": 1784721616.3265138, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure", "current_mb": 4.19, "peak_mb": 5.076}
+{"ts": 1784721616.3268828, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "structure", "duration_sec": 0.2392}
+{"ts": 1784721616.3273773, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values"}
+{"ts": 1784721616.3417284, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values", "current_mb": 4.19, "peak_mb": 4.516}
+{"ts": 1784721616.3425953, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "missing_values", "duration_sec": 0.014}
+{"ts": 1784721616.3433044, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers"}
+{"ts": 1784721616.3787663, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers", "current_mb": 4.196, "peak_mb": 5.652}
+{"ts": 1784721616.3791382, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "outliers", "duration_sec": 0.0351}
+{"ts": 1784721616.3795905, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation"}
+{"ts": 1784721616.39836, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation", "current_mb": 2.735, "peak_mb": 7.295}
+{"ts": 1784721616.3987248, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "correlation", "duration_sec": 0.0185}
+{"ts": 1784721616.3992486, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions"}
+{"ts": 1784721616.4770565, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions", "current_mb": 2.797, "peak_mb": 4.698}
+{"ts": 1784721616.4774313, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "distributions", "duration_sec": 0.0775}
+{"ts": 1784721616.4781597, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions"}
+{"ts": 1784721616.5474312, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions", "current_mb": 2.736, "peak_mb": 7.645}
+{"ts": 1784721616.5478103, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "assumptions", "duration_sec": 0.069}
+{"ts": 1784721616.5482216, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality"}
+{"ts": 1784721616.5795403, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality", "current_mb": 2.848, "peak_mb": 7.416}
+{"ts": 1784721616.579935, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "dimensionality", "duration_sec": 0.031}
+{"ts": 1784721616.5806658, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate"}
+{"ts": 1784721617.0791192, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate", "current_mb": 2.965, "peak_mb": 9.403}
+{"ts": 1784721617.0795255, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "multivariate", "duration_sec": 0.4982}
+{"ts": 1784721617.0804312, "event": "agent_start", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary"}
+{"ts": 1784721617.0809073, "event": "memory_usage", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary", "current_mb": 2.738, "peak_mb": 2.738}
+{"ts": 1784721617.0811827, "event": "agent_complete", "session_id": "4b922e50-0e30-47b0-8dca-2b966061bbdc", "agent": "summary", "duration_sec": 0.0002}
+{"ts": 1784723381.0721395, "event": "dataset_size", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "rows": 144867, "cols": 24, "bytes_in_memory": 136605250}
+{"ts": 1784723433.7162654, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "preprocessing"}
+{"ts": 1784723490.3194377, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "preprocessing", "current_mb": 26.613, "peak_mb": 66.907}
+{"ts": 1784723490.3208907, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "preprocessing", "duration_sec": 56.594}
+{"ts": 1784723490.3213937, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "structure"}
+{"ts": 1784723496.4572263, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "structure", "current_mb": 26.675, "peak_mb": 35.767}
+{"ts": 1784723496.4576852, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "structure", "duration_sec": 6.1355}
+{"ts": 1784723496.4580414, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "missing_values"}
+{"ts": 1784723496.679056, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "missing_values", "current_mb": 26.687, "peak_mb": 30.419}
+{"ts": 1784723496.679477, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "missing_values", "duration_sec": 0.2207}
+{"ts": 1784723496.6798036, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "outliers"}
+{"ts": 1784723496.8635285, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "outliers", "current_mb": 27.815, "peak_mb": 38.852}
+{"ts": 1784723496.8640435, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "outliers", "duration_sec": 0.1834}
+{"ts": 1784723496.8645399, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "correlation"}
+{"ts": 1784723496.9720838, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "correlation", "current_mb": 27.877, "peak_mb": 53.658}
+{"ts": 1784723496.9724832, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "correlation", "duration_sec": 0.1071}
+{"ts": 1784723496.972859, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "distributions"}
+{"ts": 1784723497.446058, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "distributions", "current_mb": 14.682, "peak_mb": 56.823}
+{"ts": 1784723497.4465094, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "distributions", "duration_sec": 0.4728}
+{"ts": 1784723497.446872, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "assumptions"}
+{"ts": 1784723497.6694825, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "assumptions", "current_mb": 14.707, "peak_mb": 55.706}
+{"ts": 1784723497.6699126, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "assumptions", "duration_sec": 0.2223}
+{"ts": 1784723497.6702955, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "dimensionality"}
+{"ts": 1784723497.9211516, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "dimensionality", "current_mb": 15.558, "peak_mb": 53.374}
+{"ts": 1784723497.9216123, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "dimensionality", "duration_sec": 0.2505}
+{"ts": 1784723497.9219859, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "multivariate"}
+{"ts": 1784723502.048573, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "multivariate", "current_mb": 15.968, "peak_mb": 67.827}
+{"ts": 1784723502.0490305, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "multivariate", "duration_sec": 4.1263}
+{"ts": 1784723502.0493839, "event": "agent_start", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "summary"}
+{"ts": 1784723502.0499332, "event": "memory_usage", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "summary", "current_mb": 15.969, "peak_mb": 15.97}
+{"ts": 1784723502.0503001, "event": "agent_complete", "session_id": "e8b11ebd-7432-4ccf-9bd4-6f4a6c14c911", "agent": "summary", "duration_sec": 0.0002}

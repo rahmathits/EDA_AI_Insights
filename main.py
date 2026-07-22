@@ -40,7 +40,7 @@ ALLOWED_EXTENSIONS = {".csv", ".xlsx", ".xls", ".tsv"}
 
 app = FastAPI(title=APP_TITLE)
 app.add_middleware(
-    CORSMiddleware, allow_origins=["https://eda-ai-insights-frontend.vercel.app"], allow_methods=["*"], allow_headers=["*"],
+    CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"],
 )
 
 STEP_ORDER = [cls().name for cls in PIPELINE]

@@ -47,6 +47,15 @@ STEP_ORDER = [cls().name for cls in PIPELINE]
 _last_key_attempt: dict[str, float] = {}  # session_id -> unix time, throttles /llm/connect
 KEY_ATTEMPT_COOLDOWN_SEC = 3
 
+# for the root endpoint, we don't want to expose the full API docs, so we mount a static index.html instead
+
+@app.get("/")
+def root():
+    return {
+        "status": "success",
+        "message": "EDA AI Insights API is running"
+    }
+
 
 # --------------------------------------------------------------------------
 # Upload & validation
